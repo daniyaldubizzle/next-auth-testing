@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Denied = () => {
-  return (
-    <div>Denied</div>
-  )
-}
+  return <div>Denied PAGE</div>;
+};
 
-export default Denied
+export default Denied;
